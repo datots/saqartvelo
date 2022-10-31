@@ -1,0 +1,171 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+li{
+    display: inline;
+    
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(233, 49, 17);
+
+}
+
+.country{
+    text-align: center;
+    font-size: 40px;
+    color: chartreuse;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+  }
+
+  .Tbil{
+    display: block;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
+  }
+
+  .svan{
+    display: block;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;  
+    
+  }
+
+  .afxa{
+    display: block;
+    width: 40%;
+    height: 250px;
+    float:left;
+    margin-right: 100px;
+  }
+      
+  .zani{
+    display: block;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+  }  
+
+  .racha{
+    display: block;
+    width: 40%;
+    height: 250px;
+    float:left;
+    margin-right: 100px;  
+  }
+
+  .gur{
+    display: block;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+  }
+      
+  .Qax{
+    display: block;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+  }
+
+  .lechkh{
+    display: block;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
+  }
+
+  .kvemo-kartli{
+    display: block;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
+  }
+  .shida-kartli{
+    display: block;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
+  }
+  .samtskhe-javakheti{
+    display: block;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
+
+  }
+  
+  a{
+    text-decoration: none;
+    
+  }
+
+  .mtskheta-mtianeti{
+    display: block;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
+  }
+
+
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+
+  p{
+    font-style: oblique;
+    margin-top:0;
+    border-style: ridge;
+  } 
+
+  .image{
+    padding-top:5px;
+    padding-bottom: 5px;
+  }
+  
+.container{
+  display: flex;
+  margin: 10px;
+  padding: 20px;
+}
+
+li:hover {
+  background-color:black;
+}
+
+
