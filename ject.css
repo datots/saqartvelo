@@ -8,6 +8,7 @@ ul{
 
 li{
     display: inline;
+    
 }
 
 .title{
@@ -28,97 +29,114 @@ li{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    height: 50%;
   }
 
   .Tbil{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
   }
 
   .svan{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;  
     
   }
 
   .afxa{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 40%;
+    height: 250px;
+    float:left;
+    margin-right: 100px;
   }
+      
   .zani{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+  }  
 
   .racha{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 40%;
+    height: 250px;
+    float:left;
+    margin-right: 100px;  
   }
 
   .gur{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
   }
+      
   .Qax{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
   }
 
   .lechkh{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
   }
 
   .kvemo-kartli{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
   }
-
   .shida-kartli{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
   }
   .samtskhe-javakheti{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
 
   }
   
   a{
     text-decoration: none;
+    
   }
 
   .mtskheta-mtianeti{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-
+    width: 40%;
+    height: 40%;
+    float:left;
+    margin-right: 100px;
+      
   }
 
 
@@ -139,3 +157,15 @@ li{
     padding-top:5px;
     padding-bottom: 5px;
   }
+  
+.container{
+  display: flex;
+  margin: 10px;
+  padding: 20px;
+}
+
+li:hover {
+  background-color:black;
+}
+
+
